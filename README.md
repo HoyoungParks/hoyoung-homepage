@@ -19,6 +19,7 @@ Most content changes are in `index.html`.
 - Visual styling is in `styles.css`.
 - Replace the profile photo or CV by putting the new file in `assets/` and updating the matching `src` or `href` in `index.html`.
 - After edits, run the local preview command above and check the page in a browser.
+- For detailed Korean instructions, see `HOMEPAGE_UPDATE_MANUAL_KO.md`.
 
 Quick checks:
 
@@ -67,3 +68,4 @@ git push
 - `script.js`: header state and icons
 - `assets/research-hero.png`: generated hero image
 - `assets/CV_Hoyoung_Park.pdf`: attached CV copy
+- `HOMEPAGE_UPDATE_MANUAL_KO.md`: Korean homepage update manual
