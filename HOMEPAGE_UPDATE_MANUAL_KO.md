@@ -129,7 +129,7 @@ git push
 
 뉴스 항목은 하나의 `News` 섹션 안에 두고, 카드 안의 category label만 바꾸는 방식이 좋습니다. 예를 들어 `Lab News`, `Presentation`, `Award`, `Publication`, `Alumni` 같은 짧은 라벨을 사용합니다.
 
-학술발표 목록은 `Presentations` 섹션에서 관리합니다. 호영님의 발표는 CV 전체 목록을 그대로 다 옮기기보다 `Recent Talks by Hoyoung Park`에 최근/대표 발표만 유지하고, 오래된 발표는 `Full CV`에서 확인하게 두는 편이 좋습니다. 새 발표가 생기면 기존 발표 `<article>` 하나를 복사해서 날짜, 제목, 발표 장소/학회명, 발표 형식만 바꿉니다.
+학술발표 목록은 `Presentations` 섹션에서 관리합니다. 호영님의 발표는 CV 전체 목록을 그대로 다 옮기기보다 `Selected Recent Talks by Hoyoung Park`에 최근/대표 발표 5개 안팎만 유지하고, 오래된 발표는 `Full CV`에서 확인하게 두는 편이 좋습니다. 새 발표가 생기면 기존 발표 `<article>` 하나를 복사해서 날짜, 제목, 발표 장소/학회명, 발표 형식만 바꿉니다.
 
 ## 6. 로컬에서 미리보기
 
