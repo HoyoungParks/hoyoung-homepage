@@ -107,6 +107,7 @@ git push
 - `News`
 - `Research`
 - `Publications`
+- `Presentations`
 - `Grants`
 - `Students and alumni`
 - `Teaching`
@@ -125,6 +126,10 @@ git push
 ```
 
 기존 카드의 class 이름은 되도록 유지하세요. 그래야 디자인이 그대로 적용됩니다.
+
+뉴스 항목은 하나의 `News` 섹션 안에 두고, 카드 안의 category label만 바꾸는 방식이 좋습니다. 예를 들어 `Lab News`, `Presentation`, `Award`, `Publication`, `Alumni` 같은 짧은 라벨을 사용합니다.
+
+학술발표 목록은 `Presentations` 섹션에서 관리합니다. 새 발표가 생기면 기존 발표 `<article>` 하나를 복사해서 날짜, 제목, 발표자, 학회명만 바꿉니다.
 
 ## 6. 로컬에서 미리보기
 
@@ -275,4 +280,3 @@ git add index.html assets README.md HOMEPAGE_UPDATE_MANUAL_KO.md
 git commit -m "Update homepage"
 git push
 ```
-
