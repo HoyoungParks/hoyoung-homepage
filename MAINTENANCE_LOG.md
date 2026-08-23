@@ -32,3 +32,8 @@ This file records consequential maintenance decisions and completed work. Routin
 
 - Added Chaewon Song's poster presentation at the 9th International Conference on Econometrics and Statistics (EcoSta 2026), hosted by Ryukoku University in Kyoto, Japan, August 8–10, 2026.
 - Recorded the presentation in both `News` and `Student Presentations`, retaining the same title used for her earlier Korean Statistical Society presentation: “Sharpening Variance Estimation: An Empirical Bayes Approach under Mean-Variance Dependence.”
+
+## 2026-08-23 — Chaewon Song alumni update
+
+- Recorded Chaewon Song's August 2026 M.S. graduation in `News`.
+- Moved her profile from `M.S. Students` to `Alumni`, preserving her study period, thesis title, and profile link.
