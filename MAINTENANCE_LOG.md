@@ -27,3 +27,8 @@ This file records consequential maintenance decisions and completed work. Routin
 - Record major content, structure, deployment, and maintenance-policy decisions in this file; use commit history for exact diffs.
 - Before publishing, check the working tree, validate HTML, preview locally when visual behavior changes, and verify the public Pages URL after push.
 - Do not commit credentials, access tokens, or private contact information.
+
+## 2026-08-23 — EcoSta 2026 student presentation
+
+- Added Chaewon Song's poster presentation at the 9th International Conference on Econometrics and Statistics (EcoSta 2026), hosted by Ryukoku University in Kyoto, Japan, August 8–10, 2026.
+- Recorded the presentation in both `News` and `Student Presentations`, retaining the same title used for her earlier Korean Statistical Society presentation: “Sharpening Variance Estimation: An Empirical Bayes Approach under Mean-Variance Dependence.”
