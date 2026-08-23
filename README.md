@@ -69,3 +69,4 @@ git push
 - `assets/research-hero.png`: generated hero image
 - `assets/CV_Hoyoung_Park.pdf`: attached CV copy
 - `HOMEPAGE_UPDATE_MANUAL_KO.md`: Korean homepage update manual
+- `MAINTENANCE_LOG.md`: consequential maintenance decisions and audit history
