@@ -37,3 +37,9 @@ This file records consequential maintenance decisions and completed work. Routin
 
 - Recorded Chaewon Song's August 2026 M.S. graduation in `News`.
 - Moved her profile from `M.S. Students` to `Alumni`, preserving her study period, thesis title, and profile link.
+
+## 2026-11-20 — GitHub authentication migration
+
+- Replaced expiring HTTPS personal-access-token authentication with a repository-scoped, write-enabled GitHub deploy key for `hoyoung-homepage`.
+- The repository remote now uses SSH, avoiding macOS Keychain limitations in Tailscale SSH sessions and recurring PAT renewal.
+- Verified both repository read access and write authorization with `git ls-remote` and a dry-run push. No private key or token is stored in this repository.
